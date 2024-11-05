@@ -1,0 +1,33 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# macOS files
+.DS_Store
+
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# LiveKit specific logs and cache files
+*.log
+*.cache
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore custom IDE configuration files (optional)
+.vscode/
+.idea/
+
+# Dependency directories (optional, in case you're using Docker)
+__pycache__/
+build/
+dist/
+*.egg-info/
